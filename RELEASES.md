@@ -1,6 +1,6 @@
 # ZG ZoneEconomy — releases and compatibility
 
-Source version snapshot: **1.3.2**. This is not a claim that a matching protected release file has been uploaded.
+Current protected release pair: **server 1.3.3 + client 1.3.3**. Bank protocol 3 and trade protocol 1 are unchanged from 1.3.2. These files are published together as Beta in one CurseForge project, subject to moderation.
 
 - Minecraft 1.20.1, Forge 47.x.
 - Distribution layout: **paired**.
@@ -11,4 +11,5 @@ Source version snapshot: **1.3.2**. This is not a claim that a matching protecte
 
 ## Español
 
-La versión de las fuentes revisadas es **1.3.2**; eso no significa que se haya subido un JAR final protegido. Comprueba la pareja cliente/servidor, SHA-256, dependencias y notas de cambios de cada archivo publicado. No instales JAR `-dev`, de pruebas ni de compilación sin protección.
+La pareja protegida actual es **servidor 1.3.3 + cliente 1.3.3**. Los protocolos de banco 3 e intercambio 1 permanecen. Ambos archivos se cargan como Beta en un único proyecto de CurseForge y esperan moderación. Comprueba SHA-256, dependencias y notas de cada archivo; no instales JAR `-dev`, de pruebas ni de compilación sin protección.
+
