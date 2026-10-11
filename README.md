@@ -2,7 +2,7 @@
 
 ## English
 
-GodieCoin balances, banking and server-validated player trades. Minecraft 1.20.1 / Forge 47.x.
+GodieCoin balances, banking and server-validated player trades. Current pair: server **1.3.3** and client **1.3.3**, Minecraft 1.20.1 / Forge 47.x.
 
 ### Installation
 
@@ -14,13 +14,13 @@ Edit generated TOML files while the server or game is stopped unless a documente
 
 | Config file | Use |
 |---|---|
-| `zoneeconomy-common.toml` | Verify the exact generated path and options for the selected release. |
+| `config/zoneeconomy-common.toml` | Independent purchase and redemption rates; defaults are 2000 virtual coins per physical coin. |
 
 See [configuration reference](CONFIGURATION.md) for keys detected in source and [release compatibility](RELEASES.md) for version-pair rules.
 
 ## Español
 
-Saldos GodieCoin, banco e intercambios validados por el servidor. Minecraft 1.20.1 / Forge 47.x.
+Saldos GodieCoin, banco e intercambios validados por el servidor. Pareja actual: servidor **1.3.3** y cliente **1.3.3**, Minecraft 1.20.1 / Forge 47.x.
 
 ### Instalación
 
@@ -32,10 +32,11 @@ Edita los TOML generados con el servidor o juego detenido, salvo que exista un c
 
 | Archivo de configuración | Uso |
 |---|---|
-| `zoneeconomy-common.toml` | Comprueba la ruta y opciones generadas de la entrega elegida. |
+| `config/zoneeconomy-common.toml` | Tasas independientes de compra y canje; valor inicial de 2000 monedas virtuales por cada moneda física. |
 
 Consulta la [referencia de configuración](CONFIGURATION.md) para claves detectadas en el código y la [compatibilidad de entregas](RELEASES.md) para las parejas de versiones.
 
 ## Ownership / Titularidad
 
 Documentation and original ZONE visual assets © Elgochogms. This repository contains documentation and a project avatar only; it does not distribute mod source code, private mappings, server secrets or production configuration.
+
