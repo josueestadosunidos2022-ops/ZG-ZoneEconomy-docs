@@ -1,8 +1,14 @@
 # ZG ZoneEconomy
 
+## Update / Actualización — 2026-10-17
+
+Selected version / Versión seleccionada: **server 1.4.0-beta2 / client 1.4.0-beta2**. New file availability depends on CurseForge approval / La disponibilidad de los archivos nuevos depende de su aprobación en CurseForge.
+
+See [changes, exact files and installation](UPDATES-2026-10-17.md) / Consulta [cambios, archivos e instalación](UPDATES-2026-10-17.md). Preserve the world and TOML files / Conserva mundo y TOML.
+
 ## English
 
-GodieCoin balances, banking and server-validated player trades. Current pair: server **1.3.3** and client **1.3.3**, Minecraft 1.20.1 / Forge 47.x.
+GodieCoin balances, banking and server-validated player trades. Current pair: server **1.4.0-beta2** and client **1.4.0-beta2**, Minecraft 1.20.1 / Forge 47.x.
 
 ### Installation
 
@@ -20,7 +26,7 @@ See [configuration reference](CONFIGURATION.md) for keys detected in source and 
 
 ## Español
 
-Saldos GodieCoin, banco e intercambios validados por el servidor. Pareja actual: servidor **1.3.3** y cliente **1.3.3**, Minecraft 1.20.1 / Forge 47.x.
+Saldos GodieCoin, banco e intercambios validados por el servidor. Pareja actual: servidor **1.4.0-beta2** y cliente **1.4.0-beta2**, Minecraft 1.20.1 / Forge 47.x.
 
 ### Instalación
 
