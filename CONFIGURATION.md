@@ -1,4 +1,4 @@
-# ZG ZoneEconomy 1.3.3 — configuración / configuration
+# ZoneEconomy 1.3.3 — configuración / configuration
 
 ## Español
 
