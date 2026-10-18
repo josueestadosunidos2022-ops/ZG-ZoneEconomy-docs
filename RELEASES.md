@@ -1,4 +1,4 @@
-# ZG ZoneEconomy — releases and compatibility
+# ZoneEconomy — releases and compatibility
 
 Current protected release pair: **server 1.3.3 + client 1.3.3**. Bank protocol 3 and trade protocol 1 are unchanged from 1.3.2. These files are published together as Beta in one CurseForge project, subject to moderation.
 
