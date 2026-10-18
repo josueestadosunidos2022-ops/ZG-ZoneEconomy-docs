@@ -1,4 +1,4 @@
-# ZG ZoneEconomy
+# ZoneEconomy
 
 ## Update / Actualización — 2026-10-17
 
