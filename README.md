@@ -1,5 +1,28 @@
 # ZoneEconomy
 
+## Current update / Actualización actual — 2026-10-23
+
+Protected public builds prepared for Minecraft 1.20.1 / Forge 47.4.x / Java 17. Files become available after CurseForge approval. / Compilaciones públicas protegidas; los archivos estarán disponibles cuando CurseForge los apruebe.
+
+GodieCoin-specific stack handling supports up to 264 coins without changing ordinary item stacks or requiring BiggerStacks. Includes the current wallet and transaction fixes.
+
+| Side / Lado | Version / Versión | File / Archivo |
+|---|---|---|
+| server | 1.4.0-beta5 | `zoneeconomy-server-1.4.0-beta5-protected.jar` |
+| client | 1.4.0-beta5 | `zoneeconomy-client-1.4.0-beta5-protected.jar` |
+
+Install only the JAR for each side; never put both side JARs in one mods folder. Back up the world and preserve existing player data and TOML files. / Instala solo el JAR correspondiente a cada lado; conserva mundo, progreso y TOML existentes.
+
+**server dependencies / dependencias:** ZoneCore: Required Dependency ([2.1.2,)); ZoneCrates: Required Dependency ([2.0.5,)); ZoneEssentials: Optional Dependency ([4.2.11,)); ZoneLag: Optional Dependency ([4.1.0,)).
+
+**client dependencies / dependencias:** ZoneCrates: Required Dependency ([2.0.5,)).
+
+Archive checks and isolated dedicated-server startup do not certify graphical gameplay, real multiplayer or the full modpack. / Las verificaciones de archivo y arranque aislado no certifican cliente gráfico, multijugador real ni modpack completo.
+
+## Earlier reference / Referencia anterior
+
+The following reference predates this update. Use the current versions and side instructions above when they differ. / La referencia siguiente es anterior; prevalecen las versiones y las indicaciones de lado de esta actualización.
+
 ## Update / Actualización — 2026-10-17
 
 Selected version / Versión seleccionada: **server 1.4.0-beta2 / client 1.4.0-beta2**. New file availability depends on CurseForge approval / La disponibilidad de los archivos nuevos depende de su aprobación en CurseForge.
@@ -45,4 +68,3 @@ Consulta la [referencia de configuración](CONFIGURATION.md) para claves detecta
 ## Ownership / Titularidad
 
 Documentation and original ZONE visual assets © Elgochogms. This repository contains documentation and a project avatar only; it does not distribute mod source code, private mappings, server secrets or production configuration.
-
