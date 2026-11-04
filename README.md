@@ -1,3 +1,19 @@
+# ZoneEconomy
+
+## Current build / Versión actual — 2026-11-03 revision 3
+
+1.4.0-beta7 Gremios1 (server) / beta7 (client)
+
+[Server](https://www.curseforge.com/minecraft/mc-mods/zoneeconomy/files/9430627) · [Client](https://www.curseforge.com/minecraft/mc-mods/zoneeconomy/files/9381964)
+
+SERVER patch only: successful player-trade notification for optional LevelUp r54 guild trials. Network beta7 and existing beta7 client unchanged. Replace the old server JAR, never install two. / Parche solo servidor para objetivos de gremios; cliente beta7 existente intacto y sin duplicarlo.
+
+[English / Español installation and changes](RELEASE-2026-11-03-r3.md). Availability follows each file approval. / Disponibilidad según aprobación del archivo.
+
+## Historical documentation / Documentación histórica
+
+Versions below are earlier releases; the current build above takes precedence. / Las versiones siguientes son anteriores; prevalece la versión actual de arriba.
+
 # ZoneEconomy 1.4.0-beta7
 
 ## English
