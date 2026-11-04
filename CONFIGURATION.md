@@ -1,3 +1,5 @@
+> **Current reference / Referencia actual — 2026-11-04:** [Updated release and detailed usage / Entrega y uso actualizado](RELEASE-2026-11-04.md). The current version/side table in README takes precedence over historical version examples below. / La pareja actual del README prevalece sobre ejemplos históricos de versiones.
+
 # ZoneEconomy 1.3.3 — configuración / configuration
 
 ## Español
@@ -35,4 +37,4 @@ ZoneEconomy uses the **single ZoneCrates GodieCoin wallet**; it does not create 
 `config/zoneeconomy-common.toml` has `[cambio] precio_comprar_moneda_fisica=2000` (virtual coins charged for one physical coin) and `valor_canjear_moneda_fisica=2000` (virtual coins credited for one physical coin). These are independent positive integer rates. Edit with the server stopped and restart; back up world and player data first.
 
 The permission table above lists public balance, trade and NPC banking nodes and restricted portable banking/admin nodes. `/godiecoin comprar|canjear <amount>` counts **physical coins**; `retirar` and `depositar` remain aliases. Easy NPC Core and Config UI 7.12.1 are needed only for banker NPC features. Player trades require both parties to review and confirm the current offers. Version 1.3.3 repairs existing **vanilla** merchant offers containing old physical GodieCoins when opened; it does not rewrite modded merchants globally.
-
+
