@@ -1,5 +1,14 @@
 # ZoneEconomy
 
+
+## Latest update / Última actualización — 1.4.0-beta8 r3/r2
+
+Correcciones de consistencia de inventario y cartera en la rama beta8. Usa las compilaciones revisadas de servidor r3 y cliente r2 para esta actualización.
+
+Inventory and wallet consistency fixes for the beta8 line. Use the revised server r3 and client r2 builds together for this update.
+
+[Release notes / Notas de versión](RELEASE-2026-11-17.md)
+
 ## Current builds / Versiones actuales — 2026-11-04
 
 | Side / Lado | Version / Versión | File / Archivo |
