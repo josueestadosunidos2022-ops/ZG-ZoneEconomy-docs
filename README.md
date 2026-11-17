@@ -1,7 +1,30 @@
 # ZoneEconomy
 
+## 1.4.0-beta8 r3/r2 · Forge 1.20.1 · Java 17
 
-## Latest update / Última actualización — 1.4.0-beta8 r3/r2
+### Español
+
+Correcciones de consistencia de inventario y cartera en la rama beta8. Usa las compilaciones revisadas de servidor r3 y cliente r2 para esta actualización.
+
+ZoneCrates es obligatorio en ambos lados. ZoneCore es obligatorio en el servidor. Conserva mundos, saldos e historial de transacciones al actualizar.
+
+### English
+
+Inventory and wallet consistency fixes for the beta8 line. Use the revised server r3 and client r2 builds together for this update.
+
+ZoneCrates is required on both sides. ZoneCore is required on the server. Preserve worlds, player balances and the transaction history when upgrading.
+
+## Archivos de esta versión / Files for this version
+
+- [Servidor / Server](https://www.curseforge.com/minecraft/mc-mods/zoneeconomy/files/9671163)
+- [Cliente / Client](https://www.curseforge.com/minecraft/mc-mods/zoneeconomy/files/9671170)
+
+[Notas de versión / Release notes](RELEASE-2026-11-17.md)
+
+<details>
+<summary>Documentación de versiones anteriores / Earlier release documentation</summary>
+
+## Historical notes · Latest update / Última actualización — 1.4.0-beta8 r3/r2
 
 Correcciones de consistencia de inventario y cartera en la rama beta8. Usa las compilaciones revisadas de servidor r3 y cliente r2 para esta actualización.
 
@@ -9,7 +32,7 @@ Inventory and wallet consistency fixes for the beta8 line. Use the revised serve
 
 [Release notes / Notas de versión](RELEASE-2026-11-17.md)
 
-## Current builds / Versiones actuales — 2026-11-04
+## Historical notes · Current builds / Versiones actuales — 2026-11-04
 
 | Side / Lado | Version / Versión | File / Archivo |
 |---|---|---|
@@ -47,3 +70,5 @@ Original release checks and isolated startup/command registration of the protect
 ## Ownership / Titularidad
 
 Original ZONE code and visual assets © Elgochogms. Public documentation only: no mod sources, private obfuscation maps, credentials or production player data. Existing rights of earlier distributions are preserved.
+
+</details>
